@@ -1,0 +1,8 @@
+__pycache__
+*.json
+*.jsonl
+freebase-rdf-latest*
+*.txt
+*.zip
+*.gz
+wget-log

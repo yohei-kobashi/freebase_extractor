@@ -6,3 +6,4 @@ freebase-rdf-latest*
 *.zip
 *.gz
 wget-log
+env
